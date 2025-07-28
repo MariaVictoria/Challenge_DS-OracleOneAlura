@@ -61,6 +61,11 @@ Después del análisis, se concluyó que la **Tienda 4** presenta el rendimiento
 * Integrar un **dashboard interactivo** con herramientas como `Plotly`, `Dash` o `Streamlit` para facilitar la visualización dinámica de los KPIs.
 * Análisis geográfico de ventas- Se propone explorar las coordenadas geográficas incluidas en los datos (`lat` y `lon`) para identificar **patrones relacionados con la ubicación de las compras**.
 
+---
+
+## 👩‍💻 Sobre mí
+
+Soy Técnica en Innovación con Tecnologías 4.0, apasionada por el análisis de datos, por convertir datos en decisiones estratégicas. Este proyecto es una muestra de cómo aplico mis conocimientos para resolver problemas reales y generar valor desde el análisis.
 
 ## 📬 Contacto
 
