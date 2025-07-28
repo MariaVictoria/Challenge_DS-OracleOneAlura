@@ -67,7 +67,7 @@ Después del análisis, se concluyó que la **Tienda 4** presenta el rendimiento
 
 Soy Técnica en Innovación con Tecnologías 4.0, apasionada por el análisis de datos, por convertir datos en decisiones estratégicas. Este proyecto es una muestra de cómo aplico mis conocimientos para resolver problemas reales y generar valor desde el análisis.
 
-##📫 Contacto
+## 📫 Contacto
 GitHub: [github.com/MariaVictoria](https://github.com/MariaVictoria)
 
 ---
